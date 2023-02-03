@@ -6,6 +6,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php)&nbsp;
 ![CSHARP](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![PYTHON](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
