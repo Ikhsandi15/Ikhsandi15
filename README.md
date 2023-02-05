@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ikhsandi <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0C0C0&width=435&lines=Web+Developer;Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0C0C0&width=435&lines=Web+Developer;Learning+New+Things;Technology+Lovers" alt="Typing SVG" /></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
