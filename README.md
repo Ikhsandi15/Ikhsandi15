@@ -1,11 +1,5 @@
 # Hi, I'm Ikhsandi Saktiawan 👋
 
-## About Me:
-- 👨‍💻 Backend Developer with 2 years of experience
-- 💼 Currently working at Freelance
-- 🎓 Student at SMKN 1 Purwokerto
-- 🖥️ Specializing in GoLang, PHP, and Web Development
-
 ## Skills & Technologies:
 - **Backend Development:** GoLang (preferred), PHP
 - **Web Development:** Laravel, Docker, Tailwinds.
