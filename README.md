@@ -11,7 +11,6 @@
 - 🌱 Enhancing my backend development skills with a focus on GoLang, while continuing to improve my expertise in PHP frameworks
 - ⚡ Improving my proficiency in the following GoLang backend technologies:
   - Go Concurrency & Goroutines: Learning how to effectively manage concurrency in Go using goroutines and channels.
-  - Go Web Frameworks: Improving skills in frameworks like Gin, Echo, or Go-chi for building REST APIs.
   - Microservices Architecture: Exploring the design and implementation of microservices using Go.
   - Go Performance Optimization: Focusing on best practices for improving the performance of Go applications.
 
